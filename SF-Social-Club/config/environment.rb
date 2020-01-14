@@ -10,4 +10,4 @@ ActiveRecord::Base.logger = nil
 # ActiveRecord::Base.logger = Logger.new(STDOUT)
 require_all 'app'
 
-$token = File.read("key.txt")
+# $token = File.read("key.txt")
