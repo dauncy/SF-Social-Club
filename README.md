@@ -2,6 +2,10 @@
 
 SF Social Club is a full CRUD command line apllication for users to search for upcomming events in San Francisco. 
 Data was gathered from the EventBrite API (which has since been depricated) and stored in the databse using Sqlite. 
+To run the app, fork or clone this repo, CD into the repo, and type...
+``` 
+ruby bin/run.rb 
+```
 
 
 What can a user do?
